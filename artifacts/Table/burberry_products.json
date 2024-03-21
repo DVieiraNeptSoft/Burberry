@@ -92,9 +92,9 @@
 	"foreignKeys": [],
 	"name": "burberry_products",
 	"description": null,
-	"ver": "23.10.31.1250",
+	"ver": "24.3.21.1555",
 	"enableAudit": true,
-	"includeDataInPackage": false,
+	"includeDataInPackage": true,
 	"package": "aa533759-1673-ee11-9937-0022489e2195",
 	"rolesRead": [],
 	"rolesWrite": []

@@ -1,0 +1,1706 @@
+[
+	{
+		"id": "f6379176-1d61-482b-a0ea-9cc16c6d480e",
+		"createdAt": "1698248157196",
+		"updatedAt": "1698753828621",
+		"createdBy": "daniel.vieira@neptune-software.com",
+		"updatedBy": "daniel.vieira@neptune-software.com",
+		"productID": "80758471",
+		"productName": "Chess Satchel",
+		"productColour": "Pearl",
+		"productMaterials": {
+			"fabric1": "Outer: 100% calf leather",
+			"fabric2": "Lining: 100% calf leather"
+		},
+		"productManufacturingSite": "Italy",
+		"productWeight": "0.6",
+		"productTraceability": [
+			{
+				"trace_location": "Italy, Bologna",
+				"trace_item": "100% calf leather",
+				"trace_activity": "Raw Material Harvest",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/animalIcon.jpg",
+				"trace_date": "15/02/2023"
+			},
+			{
+				"trace_location": "Italy, Milano",
+				"trace_item": "CO2 Impact: 7,5kg (High)",
+				"trace_activity": "Cutting & Assembling",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/cuttingIcon.jpg",
+				"trace_date": "18/04/2023"
+			},
+			{
+				"trace_location": "Italy, Milano",
+				"trace_item": "30% Biodegradable Paint\nCO2 Impact: 0,2kg (Low)",
+				"trace_activity": "Detailing",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/DetailingIcon.jpg",
+				"trace_date": "10/07/2023"
+			},
+			{
+				"trace_location": "London, UK",
+				"trace_item": "CO2 Impact: 0,7kg (Medium)",
+				"trace_activity": "Quality Control",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/qualityIcon.jpeg",
+				"trace_date": "23/08/2023"
+			},
+			{
+				"trace_location": "London, UK",
+				"trace_item": "CO2 Impact: 3,7kg (High)",
+				"trace_activity": "Distribution",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/distributionIcon.jpg",
+				"trace_date": "17/09/2023"
+			}
+		],
+		"productPrice": "£2,290",
+		"productImage": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/Chess_Satchel_Pearl.png",
+		"productNameTechnical": "Chess-Satchel",
+		"productDescription": {
+			"descriptionString": "Knight and rook charms\nAdjustable leather crossbody strap\nFoldover flap with magnetic closure\nOne interior slip pocket, one exterior slip pocket\nHand-painted edges\nBrushed metal hardware\nEmbossed Equestrian Knight Design at back\nAftercare available."
+		},
+		"productOtherColours": {
+			"colourCount": "3",
+			"colour1": "https://assets.burberry.com/is/image/Burberryltd/B0C6F027-10DB-4FA9-AF68-8E702D9D8378",
+			"colour2": "https://assets.burberry.com/is/image/Burberryltd/CD19D221-5611-4445-9221-7E1B4CC42BFB",
+			"colour3": "https://assets.burberry.com/is/image/Burberryltd/E94284E7-C3AB-4ACD-AE48-2260B66CA78A"
+		}
+	},
+	{
+		"id": "f3e2ec43-54df-4b26-bf53-a5e657712187",
+		"createdAt": "1698249561225",
+		"updatedAt": "1698923088960",
+		"createdBy": "daniel.vieira@neptune-software.com",
+		"updatedBy": "daniel.vieira@neptune-software.com",
+		"productID": "80723321",
+		"productName": "Medium London Tote Bag",
+		"productColour": "Archive Beige/White",
+		"productMaterials": {
+			"fabric1": "Outer: 100% cotton",
+			"fabric2": "Trim: 100% calf leather",
+			"fabric3": "Lining: 100% cotton"
+		},
+		"productManufacturingSite": "Italy",
+		"productWeight": "3.2",
+		"productTraceability": [
+			{
+				"trace_location": "Italy, Bologna",
+				"trace_item": "100% calf leather",
+				"trace_activity": "Raw Material Harvest",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/animalIcon.jpg",
+				"trace_date": "15/02/2023"
+			},
+			{
+				"trace_location": "Antalya, Turkey",
+				"trace_item": "100% organic cotton",
+				"trace_activity": "Raw Material Harvest",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/cottonIcon.jpg",
+				"trace_date": "18/04/2023"
+			},
+			{
+				"trace_location": "Italy, Milano",
+				"trace_item": "CO2 Impact: 7,5kg (High)",
+				"trace_activity": "Cutting & Assembling",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/cuttingIcon.jpg",
+				"trace_date": "10/07/2023"
+			},
+			{
+				"trace_location": "Italy, Milano",
+				"trace_item": "30% Biodegradable Paint\nCO2 Impact: 0,2kg (Low)",
+				"trace_activity": "Detailing",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/DetailingIcon.jpg",
+				"trace_date": "23/08/2023"
+			},
+			{
+				"trace_location": "London, UK",
+				"trace_item": "CO2 Impact: 0,7kg (Medium)",
+				"trace_activity": "Quality Control",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/qualityIcon.jpeg",
+				"trace_date": "17/09/2023"
+			},
+			{
+				"trace_location": "London, UK",
+				"trace_item": "CO2 Impact: 3,7kg (High)",
+				"trace_activity": "Distribution",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/distributionIcon.jpg",
+				"trace_date": "05/10/2023"
+			}
+		],
+		"productPrice": "£1,390",
+		"productImage": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/Medium_London_Tote_Bag_Archive_Beige_White.png",
+		"productNameTechnical": "Medium-London-Tote-Bag",
+		"productDescription": {
+			"descriptionString": "A softly structured tote in Burberry Check canvas and smooth calf leather, with a detachable zip pouch.\n Leather top handles\nHand-painted edges\nPolished metal hardware\nLeather top handles\nOpen top\nHand-painted edges\nPolished metal hardware\nDetachable zip pouch"
+		},
+		"productOtherColours": {
+			"colourCount": "3",
+			"colour1": "https://assets.burberry.com/is/image/Burberryltd/5ABE12BC-5479-4FDE-B3D3-11754A8CEE12",
+			"colour2": "https://assets.burberry.com/is/image/Burberryltd/8B42B73E-27A5-48F2-9CAF-B2AB2C33CB1F",
+			"colour3": "https://assets.burberry.com/is/image/Burberryltd/A40882F8-DD06-40E2-85E4-C66CC3F01984"
+		}
+	},
+	{
+		"id": "e8fb4249-87f0-43ef-8154-77b30275c1ce",
+		"createdAt": "1698248617173",
+		"updatedAt": "1698753828621",
+		"createdBy": "daniel.vieira@neptune-software.com",
+		"updatedBy": "daniel.vieira@neptune-software.com",
+		"productID": "80757891",
+		"productName": "Small Knight Bag",
+		"productColour": "Vine",
+		"productMaterials": {
+			"fabric1": "Outer: 100% calf leather",
+			"fabric2": "Trims: 100% calf leather; 100% real farmed dyed lamb shearling, ovis aries, country of origin: Italy",
+			"fabric3": "Lining: 100% calf suede"
+		},
+		"productManufacturingSite": "Italy",
+		"productWeight": "0.7",
+		"productTraceability": [
+			{
+				"trace_location": "Italy, Bologna",
+				"trace_item": "100% calf leather, 100% real farmed dyed lamb shearling, ovis aries",
+				"trace_activity": "Raw Material Harvest",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/animalIcon.jpg",
+				"trace_date": "15/02/2023"
+			},
+			{
+				"trace_location": "Italy, Bologna",
+				"trace_item": "100% calf suede",
+				"trace_activity": "Raw Material Harvest",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/animalIcon.jpg",
+				"trace_date": "18/04/2023"
+			},
+			{
+				"trace_location": "Italy, Milano",
+				"trace_item": "CO2 Impact: 7,5kg (High)",
+				"trace_activity": "Cutting & Assembling",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/cuttingIcon.jpg",
+				"trace_date": "10/07/2023"
+			},
+			{
+				"trace_location": "Italy, Milano",
+				"trace_item": "30% Biodegradable Paint\nCO2 Impact: 0,2kg (Low)",
+				"trace_activity": "Detailing",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/DetailingIcon.jpg",
+				"trace_date": "23/08/2023"
+			},
+			{
+				"trace_location": "London, UK",
+				"trace_item": "CO2 Impact: 0,7kg (Medium)",
+				"trace_activity": "Quality Control",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/qualityIcon.jpeg",
+				"trace_date": "17/09/2023"
+			},
+			{
+				"trace_location": "London, UK",
+				"trace_item": "CO2 Impact: 3,7kg (High)",
+				"trace_activity": "Distribution",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/distributionIcon.jpg",
+				"trace_date": "05/10/2023"
+			}
+		],
+		"productPrice": "£2,590",
+		"productImage": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/Small_Knight_Bag_Vine2.png",
+		"productNameTechnical": "Small-Knight-Bag",
+		"productDescription": {
+			"descriptionString": "Horse-shaped clip and hoop\nAdjusts from shoulder bag to tote\nLeather strap\nZip closure\nHand-painted edges\nBrushed metal hardware\nAftercare available."
+		},
+		"productOtherColours": {
+			"colourCount": "3",
+			"colour1": "https://assets.burberry.com/is/image/Burberryltd/9AE49C31-632E-45E6-BAF1-5F6B1CDD8052",
+			"colour2": "https://assets.burberry.com/is/image/Burberryltd/0FB62101-A2A7-470C-9C31-73A53FFBA273",
+			"colour3": "https://assets.burberry.com/is/image/Burberryltd/9D5EA15C-2CEC-4C30-8E5F-E4DF7B8ECA91"
+		}
+	},
+	{
+		"id": "e8ccd83c-5f11-411a-8fdf-ee01b2a52de6",
+		"createdAt": "1698247993499",
+		"updatedAt": "1698753828621",
+		"createdBy": "daniel.vieira@neptune-software.com",
+		"updatedBy": "daniel.vieira@neptune-software.com",
+		"productID": "80755091",
+		"productName": "Chess Satchel",
+		"productColour": "Vine",
+		"productMaterials": {
+			"fabric1": "Outer: 100% calf leather",
+			"fabric2": "Trim: 100% goat hair",
+			"fabric3": "Inner: 100% calf leather"
+		},
+		"productManufacturingSite": "Italy",
+		"productWeight": "0.6",
+		"productTraceability": [
+			{
+				"trace_location": "Italy, Bologna",
+				"trace_item": "100% calf leather",
+				"trace_activity": "Raw Material Harvest",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/animalIcon.jpg",
+				"trace_date": "15/02/2023"
+			},
+			{
+				"trace_location": "Italy, Bologna",
+				"trace_item": "100% goat hair",
+				"trace_activity": "Raw Material Harvest",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/animalIcon.jpg",
+				"trace_date": "18/04/2023"
+			},
+			{
+				"trace_location": "Italy, Milano",
+				"trace_item": "CO2 Impact: 7,5kg (High)",
+				"trace_activity": "Cutting & Assembling",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/cuttingIcon.jpg",
+				"trace_date": "10/07/2023"
+			},
+			{
+				"trace_location": "Italy, Milano",
+				"trace_item": "30% Biodegradable Paint\nCO2 Impact: 0,2kg (Low)",
+				"trace_activity": "Detailing",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/DetailingIcon.jpg",
+				"trace_date": "23/08/2023"
+			},
+			{
+				"trace_location": "London, UK",
+				"trace_item": "CO2 Impact: 0,7kg (Medium)",
+				"trace_activity": "Quality Control",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/qualityIcon.jpeg",
+				"trace_date": "17/09/2023"
+			},
+			{
+				"trace_location": "London, UK",
+				"trace_item": "CO2 Impact: 3,7kg (High)",
+				"trace_activity": "Distribution",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/distributionIcon.jpg",
+				"trace_date": "05/10/2023"
+			}
+		],
+		"productPrice": "£2,590",
+		"productImage": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/Chess_Satchel_Vine.png",
+		"productNameTechnical": "Chess-Satchel",
+		"productDescription": {
+			"descriptionString": "Knight and rook charms\nAdjustable leather crossbody strap\nFoldover flap with magnetic closure\nOne interior slip pocket, one exterior slip pocket\nHand-painted edges\nBrushed metal hardware\nEmbossed Equestrian Knight Design at back\nAftercare available."
+		},
+		"productOtherColours": {
+			"colourCount": "3",
+			"colour1": "https://assets.burberry.com/is/image/Burberryltd/E4E64A6D-F130-41DC-96F1-0495032D188B",
+			"colour2": "https://assets.burberry.com/is/image/Burberryltd/ADFAD1D9-0972-4BAA-A401-634048D7F67C",
+			"colour3": "https://assets.burberry.com/is/image/Burberryltd/CD1AC771-FB14-447A-9CA9-F61013E16E7C"
+		}
+	},
+	{
+		"id": "be6b466c-81e0-4c97-aec7-5e12f68d9386",
+		"createdAt": "1698248792339",
+		"updatedAt": "1698753828621",
+		"createdBy": "daniel.vieira@neptune-software.com",
+		"updatedBy": "daniel.vieira@neptune-software.com",
+		"productID": "80775531",
+		"productName": "Small Knight Bag",
+		"productColour": "Black",
+		"productMaterials": {
+			"fabric1": "Outer: 100% calf leather",
+			"fabric2": "Lining: 100% calf suede"
+		},
+		"productManufacturingSite": "Italy",
+		"productWeight": "0.7",
+		"productTraceability": [
+			{
+				"trace_location": "Italy, Bologna",
+				"trace_item": "100% calf leather",
+				"trace_activity": "Raw Material Harvest",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/animalIcon.jpg",
+				"trace_date": "15/02/2023"
+			},
+			{
+				"trace_location": "Italy, Bologna",
+				"trace_item": "100% calf suede",
+				"trace_activity": "Raw Material Harvest",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/animalIcon.jpg",
+				"trace_date": "18/04/2023"
+			},
+			{
+				"trace_location": "Italy, Milano",
+				"trace_item": "CO2 Impact: 7,5kg (High)",
+				"trace_activity": "Cutting & Assembling",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/cuttingIcon.jpg",
+				"trace_date": "10/07/2023"
+			},
+			{
+				"trace_location": "Italy, Milano",
+				"trace_item": "30% Biodegradable Paint\nCO2 Impact: 0,2kg (Low)",
+				"trace_activity": "Detailing",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/DetailingIcon.jpg",
+				"trace_date": "23/08/2023"
+			},
+			{
+				"trace_location": "London, UK",
+				"trace_item": "CO2 Impact: 0,7kg (Medium)",
+				"trace_activity": "Quality Control",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/qualityIcon.jpeg",
+				"trace_date": "17/09/2023"
+			},
+			{
+				"trace_location": "London, UK",
+				"trace_item": "CO2 Impact: 3,7kg (High)",
+				"trace_activity": "Distribution",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/distributionIcon.jpg",
+				"trace_date": "05/10/2023"
+			}
+		],
+		"productPrice": "£2,290",
+		"productImage": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/Small_Knight_Bag_Black.png",
+		"productNameTechnical": "Small-Knight-Bag",
+		"productDescription": {
+			"descriptionString": "Horse-shaped clip and hoop\nAdjusts from shoulder bag to tote\nLeather strap\nZip closure\nHand-painted edges\nBrushed metal hardware\nAftercare available."
+		},
+		"productOtherColours": {
+			"colourCount": "3",
+			"colour1": "https://assets.burberry.com/is/image/Burberryltd/A76D7E76-F984-40D9-9943-558BA1AEBD3E",
+			"colour2": "https://assets.burberry.com/is/image/Burberryltd/40473919-0C7F-4EFF-8B09-1178FA5A5D63",
+			"colour3": "https://assets.burberry.com/is/image/Burberryltd/60349627-6090-4FB0-9487-E36C1681BF47"
+		}
+	},
+	{
+		"id": "b7ad8228-49b8-4acd-8e22-c611495065ed",
+		"createdAt": "1698923088960",
+		"updatedAt": "1698935007915",
+		"createdBy": "daniel.vieira@neptune-software.com",
+		"updatedBy": "daniel.vieira@neptune-software.com",
+		"productID": "80780611",
+		"productName": "Check Thomas Bear",
+		"productColour": "Dark Sand",
+		"productMaterials": {
+			"fabric1": "70% wool, 20% polyamide, 10% cashmere",
+			"fabric2": "Filling: 95% polyester, 5% polyester beads",
+			"fabric3": ""
+		},
+		"productManufacturingSite": "Imported to Italy",
+		"productWeight": "0.3",
+		"productTraceability": [
+			{
+				"trace_location": "Bradford, UK",
+				"trace_item": "70% wool",
+				"trace_activity": "Raw Material Harvest",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/animalIcon.jpg",
+				"trace_date": "15/02/2023"
+			},
+			{
+				"trace_location": "Italy, Milano",
+				"trace_item": "CO2 Impact: 7,5kg (High)",
+				"trace_activity": "Cutting & Assembling",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/cuttingIcon.jpg",
+				"trace_date": "10/07/2023"
+			},
+			{
+				"trace_location": "Italy, Milano",
+				"trace_item": "30% Biodegradable Paint\nCO2 Impact: 0,2kg (Low)",
+				"trace_activity": "Filling & Detailing",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/DetailingIcon.jpg",
+				"trace_date": "23/08/2023"
+			},
+			{
+				"trace_location": "London, UK",
+				"trace_item": "CO2 Impact: 0,7kg (Medium)",
+				"trace_activity": "Quality Control",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/qualityIcon.jpeg",
+				"trace_date": "17/09/2023"
+			},
+			{
+				"trace_location": "London, UK",
+				"trace_item": "CO2 Impact: 3,7kg (High)",
+				"trace_activity": "Distribution",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/distributionIcon.jpg",
+				"trace_date": "05/10/2023"
+			}
+		],
+		"productPrice": "£600",
+		"productImage": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/Check_Thomas_Bear.png",
+		"productNameTechnical": "ThomasBear",
+		"productDescription": {
+			"descriptionString": "Burberry Check\nKnitted wool cashmere blend\nPresented in a Burberry gift box\nMachine wash"
+		},
+		"productOtherColours": {
+			"colourCount": "1",
+			"colour1": "https://assets.burberry.com/is/image/Burberryltd/4F727DB5-09D2-4B7A-8203-AAAC5314830A",
+			"colour2": "",
+			"colour3": ""
+		}
+	},
+	{
+		"id": "a60b80bc-2335-49ff-b237-9b15dbe0902e",
+		"createdAt": "1698248157196",
+		"updatedAt": "1698753828621",
+		"createdBy": "daniel.vieira@neptune-software.com",
+		"updatedBy": "daniel.vieira@neptune-software.com",
+		"productID": "80755111",
+		"productName": "Chess Satchel",
+		"productColour": "Black",
+		"productMaterials": {
+			"fabric1": "Outer: 100% calf leather",
+			"fabric2": "Lining: 100% calf leather"
+		},
+		"productManufacturingSite": "Italy",
+		"productWeight": "0.6",
+		"productTraceability": [
+			{
+				"trace_location": "Italy, Bologna",
+				"trace_item": "100% calf leather",
+				"trace_activity": "Raw Material Harvest",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/animalIcon.jpg",
+				"trace_date": "15/02/2023"
+			},
+			{
+				"trace_location": "Italy, Milano",
+				"trace_item": "CO2 Impact: 7,5kg (High)",
+				"trace_activity": "Cutting & Assembling",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/cuttingIcon.jpg",
+				"trace_date": "18/04/2023"
+			},
+			{
+				"trace_location": "Italy, Milano",
+				"trace_item": "30% Biodegradable Paint\nCO2 Impact: 0,2kg (Low)",
+				"trace_activity": "Detailing",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/DetailingIcon.jpg",
+				"trace_date": "10/07/2023"
+			},
+			{
+				"trace_location": "London, UK",
+				"trace_item": "CO2 Impact: 0,7kg (Medium)",
+				"trace_activity": "Quality Control",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/qualityIcon.jpeg",
+				"trace_date": "23/08/2023"
+			},
+			{
+				"trace_location": "London, UK",
+				"trace_item": "CO2 Impact: 3,7kg (High)",
+				"trace_activity": "Distribution",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/distributionIcon.jpg",
+				"trace_date": "17/09/2023"
+			}
+		],
+		"productPrice": "£2,290",
+		"productImage": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/Chess_Satchel_Black.png",
+		"productNameTechnical": "Chess-Satchel",
+		"productDescription": {
+			"descriptionString": "Knight and rook charms\nAdjustable leather crossbody strap\nFoldover flap with magnetic closure\nOne interior slip pocket, one exterior slip pocket\nHand-painted edges\nBrushed metal hardware\nEmbossed Equestrian Knight Design at back\nAftercare available."
+		},
+		"productOtherColours": {
+			"colourCount": "3",
+			"colour1": "https://assets.burberry.com/is/image/Burberryltd/B0C6F027-10DB-4FA9-AF68-8E702D9D8378",
+			"colour2": "https://assets.burberry.com/is/image/Burberryltd/CD19D221-5611-4445-9221-7E1B4CC42BFB",
+			"colour3": "https://assets.burberry.com/is/image/Burberryltd/E94284E7-C3AB-4ACD-AE48-2260B66CA78A"
+		}
+	},
+	{
+		"id": "a541035e-4081-422f-8348-bae1c336245b",
+		"createdAt": "1698247993499",
+		"updatedAt": "1698753828621",
+		"createdBy": "daniel.vieira@neptune-software.com",
+		"updatedBy": "daniel.vieira@neptune-software.com",
+		"productID": "80755101",
+		"productName": "Chess Satchel",
+		"productColour": "Ribbon",
+		"productMaterials": {
+			"fabric1": "Outer: 100% calf leather",
+			"fabric2": "Trim: 100% goat hair",
+			"fabric3": "Inner: 100% calf leather"
+		},
+		"productManufacturingSite": "Italy",
+		"productWeight": "0.6",
+		"productTraceability": [
+			{
+				"trace_location": "Italy, Bologna",
+				"trace_item": "100% calf leather",
+				"trace_activity": "Raw Material Harvest",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/animalIcon.jpg",
+				"trace_date": "15/02/2023"
+			},
+			{
+				"trace_location": "Italy, Bologna",
+				"trace_item": "100% goat hair",
+				"trace_activity": "Raw Material Harvest",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/animalIcon.jpg",
+				"trace_date": "18/04/2023"
+			},
+			{
+				"trace_location": "Italy, Milano",
+				"trace_item": "CO2 Impact: 7,5kg (High)",
+				"trace_activity": "Cutting & Assembling",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/cuttingIcon.jpg",
+				"trace_date": "10/07/2023"
+			},
+			{
+				"trace_location": "Italy, Milano",
+				"trace_item": "30% Biodegradable Paint\nCO2 Impact: 0,2kg (Low)",
+				"trace_activity": "Detailing",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/DetailingIcon.jpg",
+				"trace_date": "23/08/2023"
+			},
+			{
+				"trace_location": "London, UK",
+				"trace_item": "CO2 Impact: 0,7kg (Medium)",
+				"trace_activity": "Quality Control",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/qualityIcon.jpeg",
+				"trace_date": "17/09/2023"
+			},
+			{
+				"trace_location": "London, UK",
+				"trace_item": "CO2 Impact: 3,7kg (High)",
+				"trace_activity": "Distribution",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/distributionIcon.jpg",
+				"trace_date": "05/10/2023"
+			}
+		],
+		"productPrice": "£2,590",
+		"productImage": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/Chess_Satchel_Ribbon.png",
+		"productNameTechnical": "Chess-Satchel",
+		"productDescription": {
+			"descriptionString": "Knight and rook charms\nAdjustable leather crossbody strap\nFoldover flap with magnetic closure\nOne interior slip pocket, one exterior slip pocket\nHand-painted edges\nBrushed metal hardware\nEmbossed Equestrian Knight Design at back\nAftercare available."
+		},
+		"productOtherColours": {
+			"colourCount": "3",
+			"colour1": "https://assets.burberry.com/is/image/Burberryltd/E4E64A6D-F130-41DC-96F1-0495032D188B",
+			"colour2": "https://assets.burberry.com/is/image/Burberryltd/ADFAD1D9-0972-4BAA-A401-634048D7F67C",
+			"colour3": "https://assets.burberry.com/is/image/Burberryltd/CD1AC771-FB14-447A-9CA9-F61013E16E7C"
+		}
+	},
+	{
+		"id": "991b1026-bbc1-4acd-909d-98f0495fd154",
+		"createdAt": "1698248157196",
+		"updatedAt": "1698753828621",
+		"createdBy": "daniel.vieira@neptune-software.com",
+		"updatedBy": "daniel.vieira@neptune-software.com",
+		"productID": "80775791",
+		"productName": "Chess Satchel",
+		"productColour": "Vine",
+		"productMaterials": {
+			"fabric1": "Outer: 100% calf leather",
+			"fabric2": "Lining: 100% calf leather"
+		},
+		"productManufacturingSite": "Italy",
+		"productWeight": "0.6",
+		"productTraceability": [
+			{
+				"trace_location": "Italy, Bologna",
+				"trace_item": "100% calf leather",
+				"trace_activity": "Raw Material Harvest",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/animalIcon.jpg",
+				"trace_date": "15/02/2023"
+			},
+			{
+				"trace_location": "Italy, Milano",
+				"trace_item": "CO2 Impact: 7,5kg (High)",
+				"trace_activity": "Cutting & Assembling",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/cuttingIcon.jpg",
+				"trace_date": "18/04/2023"
+			},
+			{
+				"trace_location": "Italy, Milano",
+				"trace_item": "30% Biodegradable Paint\nCO2 Impact: 0,2kg (Low)",
+				"trace_activity": "Detailing",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/DetailingIcon.jpg",
+				"trace_date": "10/07/2023"
+			},
+			{
+				"trace_location": "London, UK",
+				"trace_item": "CO2 Impact: 0,7kg (Medium)",
+				"trace_activity": "Quality Control",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/qualityIcon.jpeg",
+				"trace_date": "23/08/2023"
+			},
+			{
+				"trace_location": "London, UK",
+				"trace_item": "CO2 Impact: 3,7kg (High)",
+				"trace_activity": "Distribution",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/distributionIcon.jpg",
+				"trace_date": "17/09/2023"
+			}
+		],
+		"productPrice": "£2,290",
+		"productImage": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/Chess_Satchel_Vine2.png",
+		"productNameTechnical": "Chess-Satchel",
+		"productDescription": {
+			"descriptionString": "Knight and rook charms\nAdjustable leather crossbody strap\nFoldover flap with magnetic closure\nOne interior slip pocket, one exterior slip pocket\nHand-painted edges\nBrushed metal hardware\nEmbossed Equestrian Knight Design at back\nAftercare available."
+		},
+		"productOtherColours": {
+			"colourCount": "3",
+			"colour1": "https://assets.burberry.com/is/image/Burberryltd/B0C6F027-10DB-4FA9-AF68-8E702D9D8378",
+			"colour2": "https://assets.burberry.com/is/image/Burberryltd/CD19D221-5611-4445-9221-7E1B4CC42BFB",
+			"colour3": "https://assets.burberry.com/is/image/Burberryltd/E94284E7-C3AB-4ACD-AE48-2260B66CA78A"
+		}
+	},
+	{
+		"id": "92accf78-bf2b-48f8-9c87-d7e74e22a7cd",
+		"createdAt": "1698248617173",
+		"updatedAt": "1698753828621",
+		"createdBy": "daniel.vieira@neptune-software.com",
+		"updatedBy": "daniel.vieira@neptune-software.com",
+		"productID": "80767981",
+		"productName": "Small Knight Bag",
+		"productColour": "Haze",
+		"productMaterials": {
+			"fabric1": "Outer: 100% calf leather",
+			"fabric2": "Trims: 100% calf leather; 100% real farmed dyed lamb shearling, ovis aries, country of origin: Italy",
+			"fabric3": "Lining: 100% calf suede"
+		},
+		"productManufacturingSite": "Italy",
+		"productWeight": "0.7",
+		"productTraceability": [
+			{
+				"trace_location": "Italy, Bologna",
+				"trace_item": "100% calf leather, 100% real farmed dyed lamb shearling, ovis aries",
+				"trace_activity": "Raw Material Harvest",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/animalIcon.jpg",
+				"trace_date": "15/02/2023"
+			},
+			{
+				"trace_location": "Italy, Bologna",
+				"trace_item": "100% calf suede",
+				"trace_activity": "Raw Material Harvest",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/animalIcon.jpg",
+				"trace_date": "18/04/2023"
+			},
+			{
+				"trace_location": "Italy, Milano",
+				"trace_item": "CO2 Impact: 7,5kg (High)",
+				"trace_activity": "Cutting & Assembling",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/cuttingIcon.jpg",
+				"trace_date": "10/07/2023"
+			},
+			{
+				"trace_location": "Italy, Milano",
+				"trace_item": "30% Biodegradable Paint\nCO2 Impact: 0,2kg (Low)",
+				"trace_activity": "Detailing",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/DetailingIcon.jpg",
+				"trace_date": "23/08/2023"
+			},
+			{
+				"trace_location": "London, UK",
+				"trace_item": "CO2 Impact: 0,7kg (Medium)",
+				"trace_activity": "Quality Control",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/qualityIcon.jpeg",
+				"trace_date": "17/09/2023"
+			},
+			{
+				"trace_location": "London, UK",
+				"trace_item": "CO2 Impact: 3,7kg (High)",
+				"trace_activity": "Distribution",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/distributionIcon.jpg",
+				"trace_date": "05/10/2023"
+			}
+		],
+		"productPrice": "£2,590",
+		"productImage": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/Small_Knight_Bag_Haze.png",
+		"productNameTechnical": "Small-Knight-Bag",
+		"productDescription": {
+			"descriptionString": "Horse-shaped clip and hoop\nAdjusts from shoulder bag to tote\nLeather strap\nZip closure\nHand-painted edges\nBrushed metal hardware\nAftercare available."
+		},
+		"productOtherColours": {
+			"colourCount": "3",
+			"colour1": "https://assets.burberry.com/is/image/Burberryltd/9AE49C31-632E-45E6-BAF1-5F6B1CDD8052",
+			"colour2": "https://assets.burberry.com/is/image/Burberryltd/0FB62101-A2A7-470C-9C31-73A53FFBA273",
+			"colour3": "https://assets.burberry.com/is/image/Burberryltd/9D5EA15C-2CEC-4C30-8E5F-E4DF7B8ECA91"
+		}
+	},
+	{
+		"id": "7cdff4e3-6b71-4ed2-a33d-e4d721eed1e6",
+		"createdAt": "1698249561225",
+		"updatedAt": "1698753828621",
+		"createdBy": "daniel.vieira@neptune-software.com",
+		"updatedBy": "daniel.vieira@neptune-software.com",
+		"productID": "80662231",
+		"productName": "Medium London Tote Bag",
+		"productColour": "Briar Brown/Black",
+		"productMaterials": {
+			"fabric1": "Outer: 100% cotton",
+			"fabric2": "Trim: 100% calf leather",
+			"fabric3": "Lining: 100% cotton"
+		},
+		"productManufacturingSite": "Italy",
+		"productWeight": "3.2",
+		"productTraceability": [
+			{
+				"trace_location": "Italy, Bologna",
+				"trace_item": "100% calf leather",
+				"trace_activity": "Raw Material Harvest",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/animalIcon.jpg",
+				"trace_date": "15/02/2023"
+			},
+			{
+				"trace_location": "Antalya, Turkey",
+				"trace_item": "100% organic cotton",
+				"trace_activity": "Raw Material Harvest",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/cottonIcon.jpg",
+				"trace_date": "18/04/2023"
+			},
+			{
+				"trace_location": "Italy, Milano",
+				"trace_item": "CO2 Impact: 7,5kg (High)",
+				"trace_activity": "Cutting & Assembling",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/cuttingIcon.jpg",
+				"trace_date": "10/07/2023"
+			},
+			{
+				"trace_location": "Italy, Milano",
+				"trace_item": "30% Biodegradable Paint\nCO2 Impact: 0,2kg (Low)",
+				"trace_activity": "Detailing",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/DetailingIcon.jpg",
+				"trace_date": "23/08/2023"
+			},
+			{
+				"trace_location": "London, UK",
+				"trace_item": "CO2 Impact: 0,7kg (Medium)",
+				"trace_activity": "Quality Control",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/qualityIcon.jpeg",
+				"trace_date": "17/09/2023"
+			},
+			{
+				"trace_location": "London, UK",
+				"trace_item": "CO2 Impact: 3,7kg (High)",
+				"trace_activity": "Distribution",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/distributionIcon.jpg",
+				"trace_date": "05/10/2023"
+			}
+		],
+		"productPrice": "£1,390",
+		"productImage": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/Medium_London_Tote_Bag_Briar_Brown_Black.png",
+		"productNameTechnical": "Medium-London-Tote-Bag",
+		"productDescription": {
+			"descriptionString": "A softly structured tote in Burberry Check canvas and smooth calf leather, with a detachable zip pouch.\n Leather top handles\nHand-painted edges\nPolished metal hardware\nLeather top handles\nOpen top\nHand-painted edges\nPolished metal hardware\nDetachable zip pouch"
+		},
+		"productOtherColours": {
+			"colourCount": "3",
+			"colour1": "https://assets.burberry.com/is/image/Burberryltd/5ABE12BC-5479-4FDE-B3D3-11754A8CEE12",
+			"colour2": "https://assets.burberry.com/is/image/Burberryltd/8B42B73E-27A5-48F2-9CAF-B2AB2C33CB1F",
+			"colour3": "https://assets.burberry.com/is/image/Burberryltd/A40882F8-DD06-40E2-85E4-C66CC3F01984"
+		}
+	},
+	{
+		"id": "6c3cf5c2-14dd-4d7d-ac4c-d11c082e109b",
+		"createdAt": "1698249561225",
+		"updatedAt": "1698753828621",
+		"createdBy": "daniel.vieira@neptune-software.com",
+		"updatedBy": "daniel.vieira@neptune-software.com",
+		"productID": "80783781",
+		"productName": "Medium London Tote Bag",
+		"productColour": "Olive Green",
+		"productMaterials": {
+			"fabric1": "Outer: 100% cotton",
+			"fabric2": "Trim: 100% calf leather",
+			"fabric3": "Lining: 100% cotton"
+		},
+		"productManufacturingSite": "Italy",
+		"productWeight": "3.2",
+		"productTraceability": [
+			{
+				"trace_location": "Italy, Bologna",
+				"trace_item": "100% calf leather",
+				"trace_activity": "Raw Material Harvest",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/animalIcon.jpg",
+				"trace_date": "15/02/2023"
+			},
+			{
+				"trace_location": "Antalya, Turkey",
+				"trace_item": "100% organic cotton",
+				"trace_activity": "Raw Material Harvest",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/cottonIcon.jpg",
+				"trace_date": "18/04/2023"
+			},
+			{
+				"trace_location": "Italy, Milano",
+				"trace_item": "CO2 Impact: 7,5kg (High)",
+				"trace_activity": "Cutting & Assembling",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/cuttingIcon.jpg",
+				"trace_date": "10/07/2023"
+			},
+			{
+				"trace_location": "Italy, Milano",
+				"trace_item": "30% Biodegradable Paint\nCO2 Impact: 0,2kg (Low)",
+				"trace_activity": "Detailing",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/DetailingIcon.jpg",
+				"trace_date": "23/08/2023"
+			},
+			{
+				"trace_location": "London, UK",
+				"trace_item": "CO2 Impact: 0,7kg (Medium)",
+				"trace_activity": "Quality Control",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/qualityIcon.jpeg",
+				"trace_date": "17/09/2023"
+			},
+			{
+				"trace_location": "London, UK",
+				"trace_item": "CO2 Impact: 3,7kg (High)",
+				"trace_activity": "Distribution",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/distributionIcon.jpg",
+				"trace_date": "05/10/2023"
+			}
+		],
+		"productPrice": "£1,390",
+		"productImage": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/Medium_London_Tote_Bag_Olive_Green.png",
+		"productNameTechnical": "Medium-London-Tote-Bag",
+		"productDescription": {
+			"descriptionString": "A softly structured tote in Burberry Check canvas and smooth calf leather, with a detachable zip pouch.\n Leather top handles\nHand-painted edges\nPolished metal hardware\nLeather top handles\nOpen top\nHand-painted edges\nPolished metal hardware\nDetachable zip pouch"
+		},
+		"productOtherColours": {
+			"colourCount": "3",
+			"colour1": "https://assets.burberry.com/is/image/Burberryltd/5ABE12BC-5479-4FDE-B3D3-11754A8CEE12",
+			"colour2": "https://assets.burberry.com/is/image/Burberryltd/8B42B73E-27A5-48F2-9CAF-B2AB2C33CB1F",
+			"colour3": "https://assets.burberry.com/is/image/Burberryltd/A40882F8-DD06-40E2-85E4-C66CC3F01984"
+		}
+	},
+	{
+		"id": "5d66d46f-dbea-4b0c-9d8d-c2957f33d296",
+		"createdAt": "1698248792339",
+		"updatedAt": "1698753828621",
+		"createdBy": "daniel.vieira@neptune-software.com",
+		"updatedBy": "daniel.vieira@neptune-software.com",
+		"productID": "80776301",
+		"productName": "Small Knight Bag",
+		"productColour": "Ribbon",
+		"productMaterials": {
+			"fabric1": "Outer: 100% calf leather",
+			"fabric2": "Lining: 100% calf suede"
+		},
+		"productManufacturingSite": "Italy",
+		"productWeight": "0.7",
+		"productTraceability": [
+			{
+				"trace_location": "Italy, Bologna",
+				"trace_item": "100% calf leather",
+				"trace_activity": "Raw Material Harvest",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/animalIcon.jpg",
+				"trace_date": "15/02/2023"
+			},
+			{
+				"trace_location": "Italy, Bologna",
+				"trace_item": "100% calf suede",
+				"trace_activity": "Raw Material Harvest",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/animalIcon.jpg",
+				"trace_date": "18/04/2023"
+			},
+			{
+				"trace_location": "Italy, Milano",
+				"trace_item": "CO2 Impact: 7,5kg (High)",
+				"trace_activity": "Cutting & Assembling",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/cuttingIcon.jpg",
+				"trace_date": "10/07/2023"
+			},
+			{
+				"trace_location": "Italy, Milano",
+				"trace_item": "30% Biodegradable Paint\nCO2 Impact: 0,2kg (Low)",
+				"trace_activity": "Detailing",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/DetailingIcon.jpg",
+				"trace_date": "23/08/2023"
+			},
+			{
+				"trace_location": "London, UK",
+				"trace_item": "CO2 Impact: 0,7kg (Medium)",
+				"trace_activity": "Quality Control",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/qualityIcon.jpeg",
+				"trace_date": "17/09/2023"
+			},
+			{
+				"trace_location": "London, UK",
+				"trace_item": "CO2 Impact: 3,7kg (High)",
+				"trace_activity": "Distribution",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/distributionIcon.jpg",
+				"trace_date": "05/10/2023"
+			}
+		],
+		"productPrice": "£2,290",
+		"productImage": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/Small_Knight_Bag_Ribbon.png",
+		"productNameTechnical": "Small-Knight-Bag",
+		"productDescription": {
+			"descriptionString": "Horse-shaped clip and hoop\nAdjusts from shoulder bag to tote\nLeather strap\nZip closure\nHand-painted edges\nBrushed metal hardware\nAftercare available."
+		},
+		"productOtherColours": {
+			"colourCount": "3",
+			"colour1": "https://assets.burberry.com/is/image/Burberryltd/A76D7E76-F984-40D9-9943-558BA1AEBD3E",
+			"colour2": "https://assets.burberry.com/is/image/Burberryltd/40473919-0C7F-4EFF-8B09-1178FA5A5D63",
+			"colour3": "https://assets.burberry.com/is/image/Burberryltd/60349627-6090-4FB0-9487-E36C1681BF47"
+		}
+	},
+	{
+		"id": "5b69ac6c-0298-442e-b486-50eeeb8cbd4e",
+		"createdAt": "1698923088960",
+		"updatedAt": "1698935007915",
+		"createdBy": "daniel.vieira@neptune-software.com",
+		"updatedBy": "daniel.vieira@neptune-software.com",
+		"productID": "80581971",
+		"productName": "Short Kensington Heritage Trench Coat",
+		"productColour": "Black",
+		"productMaterials": {
+			"fabric1": "Outer: 100% cotton",
+			"fabric2": "Lining: 100% cotton",
+			"fabric3": "Sleeve lining: 100% viscose\nBuckles: 100% calf leather"
+		},
+		"productManufacturingSite": "England",
+		"productWeight": "2.1",
+		"productTraceability": [
+			{
+				"trace_location": "Italy, Bologna",
+				"trace_item": "100% calf leather",
+				"trace_activity": "Raw Material Harvest",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/animalIcon.jpg",
+				"trace_date": "15/02/2023"
+			},
+			{
+				"trace_location": "Antalya, Turkey",
+				"trace_item": "100% organic cotton",
+				"trace_activity": "Raw Material Harvest",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/cottonIcon.jpg",
+				"trace_date": "18/04/2023"
+			},
+			{
+				"trace_location": "Italy, Milano",
+				"trace_item": "CO2 Impact: 7,5kg (High)",
+				"trace_activity": "Cutting & Assembling",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/cuttingIcon.jpg",
+				"trace_date": "10/07/2023"
+			},
+			{
+				"trace_location": "Italy, Milano",
+				"trace_item": "30% Biodegradable Paint\nCO2 Impact: 0,2kg (Low)",
+				"trace_activity": "Detailing",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/DetailingIcon.jpg",
+				"trace_date": "23/08/2023"
+			},
+			{
+				"trace_location": "London, UK",
+				"trace_item": "CO2 Impact: 0,7kg (Medium)",
+				"trace_activity": "Quality Control",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/qualityIcon.jpeg",
+				"trace_date": "17/09/2023"
+			},
+			{
+				"trace_location": "London, UK",
+				"trace_item": "CO2 Impact: 3,7kg (High)",
+				"trace_activity": "Distribution",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/distributionIcon.jpg",
+				"trace_date": "05/10/2023"
+			}
+		],
+		"productPrice": "£1,890",
+		"productImage": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/Short_Kensington_Heritage_Trench_Coat_Black.png",
+		"productNameTechnical": "KensingtonHeritageTrenchCoat",
+		"productDescription": {
+			"descriptionString": "Burberry Check\nKnitted wool cashmere blend\nPresented in a Burberry gift box\nMachine wash"
+		},
+		"productOtherColours": {
+			"colourCount": "3",
+			"colour1": "https://assets.burberry.com/is/image/Burberryltd/09BDB347-42E9-451D-8407-6796E2789F06",
+			"colour2": "https://assets.burberry.com/is/image/Burberryltd/F98276FE-6B5C-462E-823F-B0A804817825",
+			"colour3": "https://assets.burberry.com/is/image/Burberryltd/D9D18556-491C-43C4-B5EA-F7A4D12F68D4"
+		}
+	},
+	{
+		"id": "4d0fd8cd-e8c6-4274-a683-51a7338249a5",
+		"createdAt": "1698923088960",
+		"updatedAt": "1698935007915",
+		"createdBy": "daniel.vieira@neptune-software.com",
+		"updatedBy": "daniel.vieira@neptune-software.com",
+		"productID": "80519861",
+		"productName": "Check Bow Tie Wool Silk Thomas Bear",
+		"productColour": "Ivory",
+		"productMaterials": {
+			"fabric1": "75% wool, 25% silk",
+			"fabric2": "Filling: 100% polyester",
+			"fabric3": ""
+		},
+		"productManufacturingSite": "Imported to Italy",
+		"productWeight": "0.3",
+		"productTraceability": [
+			{
+				"trace_location": "Bradford, UK",
+				"trace_item": "75% wool",
+				"trace_activity": "Raw Material Harvest",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/animalIcon.jpg",
+				"trace_date": "15/02/2023"
+			},
+			{
+				"trace_location": "Italy, Milano",
+				"trace_item": "CO2 Impact: 7,5kg (High)",
+				"trace_activity": "Cutting & Assembling",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/cuttingIcon.jpg",
+				"trace_date": "10/07/2023"
+			},
+			{
+				"trace_location": "Italy, Milano",
+				"trace_item": "30% Biodegradable Paint\nCO2 Impact: 0,2kg (Low)",
+				"trace_activity": "Filling & Detailing",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/DetailingIcon.jpg",
+				"trace_date": "23/08/2023"
+			},
+			{
+				"trace_location": "London, UK",
+				"trace_item": "CO2 Impact: 0,7kg (Medium)",
+				"trace_activity": "Quality Control",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/qualityIcon.jpeg",
+				"trace_date": "17/09/2023"
+			},
+			{
+				"trace_location": "London, UK",
+				"trace_item": "CO2 Impact: 3,7kg (High)",
+				"trace_activity": "Distribution",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/distributionIcon.jpg",
+				"trace_date": "05/10/2023"
+			}
+		],
+		"productPrice": "£250",
+		"productImage": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/Check_Bow_Tie_Wool_Silk_Thomas_Bear_Rattle.png",
+		"productNameTechnical": "ThomasBear",
+		"productDescription": {
+			"descriptionString": "A rattle knitted in wool silk,\nshaped to our signature teddy and adorned with a check bow tie and hand-embroidered details.\nMachine wash\nPresented in an elegant Burberry gift box"
+		},
+		"productOtherColours": {
+			"colourCount": "1",
+			"colour1": "https://assets.burberry.com/is/image/Burberryltd/E94284E7-C3AB-4ACD-AE48-2260B66CA78A",
+			"colour2": "",
+			"colour3": ""
+		}
+	},
+	{
+		"id": "4a9a83f1-1b86-4495-aee5-c0bd01d5e4b1",
+		"createdAt": "1698249342804",
+		"updatedAt": "1698753828621",
+		"createdBy": "daniel.vieira@neptune-software.com",
+		"updatedBy": "daniel.vieira@neptune-software.com",
+		"productID": "80211101",
+		"productName": "Note Bag",
+		"productColour": "Black",
+		"productMaterials": {
+			"fabric1": "Outer and Trim: 100% calf leather",
+			"fabric2": "Panel: 80% cotton, 20% polyester",
+			"fabric3": "Lining: 55% cotton, 45% polyester"
+		},
+		"productManufacturingSite": "Italy",
+		"productWeight": "2.4",
+		"productTraceability": [
+			{
+				"trace_location": "Italy, Bologna",
+				"trace_item": "100% calf leather",
+				"trace_activity": "Raw Material Harvest",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/animalIcon.jpg",
+				"trace_date": "15/02/2023"
+			},
+			{
+				"trace_location": "Antalya, Turkey",
+				"trace_item": "100% organic cotton",
+				"trace_activity": "Raw Material Harvest",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/cottonIcon.jpg",
+				"trace_date": "18/04/2023"
+			},
+			{
+				"trace_location": "Italy, Milano",
+				"trace_item": "CO2 Impact: 7,5kg (High)",
+				"trace_activity": "Cutting & Assembling",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/cuttingIcon.jpg",
+				"trace_date": "10/07/2023"
+			},
+			{
+				"trace_location": "Italy, Milano",
+				"trace_item": "30% Biodegradable Paint\nCO2 Impact: 0,2kg (Low)",
+				"trace_activity": "Detailing",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/DetailingIcon.jpg",
+				"trace_date": "23/08/2023"
+			},
+			{
+				"trace_location": "London, UK",
+				"trace_item": "CO2 Impact: 0,7kg (Medium)",
+				"trace_activity": "Quality Control",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/qualityIcon.jpeg",
+				"trace_date": "17/09/2023"
+			},
+			{
+				"trace_location": "London, UK",
+				"trace_item": "CO2 Impact: 3,7kg (High)",
+				"trace_activity": "Distribution",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/distributionIcon.jpg",
+				"trace_date": "05/10/2023"
+			}
+		],
+		"productPrice": "£1,150",
+		"productImage": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/Note_Bag_Black.png",
+		"productNameTechnical": "Note-Bag",
+		"productDescription": {
+			"descriptionString": "An archive-inspired style in leather and Burberry Check, detailed with logo-engraved studs.\nDetachable, adjustable crossbody strap\nOne exterior slip pocket, one interior slip pocket\nFoldover top with magnetic closure\n Hand-painted edges\nPolished metal hardware"
+		},
+		"productOtherColours": {
+			"colourCount": "2",
+			"colour1": "https://assets.burberry.com/is/image/Burberryltd/4F727DB5-09D2-4B7A-8203-AAAC5314830A",
+			"colour2": "https://assets.burberry.com/is/image/Burberryltd/5FEAA872-E869-40D5-988D-8521ED7F0C69",
+			"colour3": ""
+		}
+	},
+	{
+		"id": "4028c015-3ec7-45be-a5b5-195896ae9dc2",
+		"createdAt": "1698923088960",
+		"updatedAt": "1698935007915",
+		"createdBy": "daniel.vieira@neptune-software.com",
+		"updatedBy": "daniel.vieira@neptune-software.com",
+		"productID": "80581981",
+		"productName": "Short Kensington Heritage Trench Coat",
+		"productColour": "Coal Blue",
+		"productMaterials": {
+			"fabric1": "Outer: 100% cotton",
+			"fabric2": "Lining: 100% cotton",
+			"fabric3": "Sleeve lining: 100% viscose\nBuckles: 100% calf leather"
+		},
+		"productManufacturingSite": "England",
+		"productWeight": "2.1",
+		"productTraceability": [
+			{
+				"trace_location": "Italy, Bologna",
+				"trace_item": "100% calf leather",
+				"trace_activity": "Raw Material Harvest",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/animalIcon.jpg",
+				"trace_date": "15/02/2023"
+			},
+			{
+				"trace_location": "Antalya, Turkey",
+				"trace_item": "100% organic cotton",
+				"trace_activity": "Raw Material Harvest",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/cottonIcon.jpg",
+				"trace_date": "18/04/2023"
+			},
+			{
+				"trace_location": "Italy, Milano",
+				"trace_item": "CO2 Impact: 7,5kg (High)",
+				"trace_activity": "Cutting & Assembling",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/cuttingIcon.jpg",
+				"trace_date": "10/07/2023"
+			},
+			{
+				"trace_location": "Italy, Milano",
+				"trace_item": "30% Biodegradable Paint\nCO2 Impact: 0,2kg (Low)",
+				"trace_activity": "Detailing",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/DetailingIcon.jpg",
+				"trace_date": "23/08/2023"
+			},
+			{
+				"trace_location": "London, UK",
+				"trace_item": "CO2 Impact: 0,7kg (Medium)",
+				"trace_activity": "Quality Control",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/qualityIcon.jpeg",
+				"trace_date": "17/09/2023"
+			},
+			{
+				"trace_location": "London, UK",
+				"trace_item": "CO2 Impact: 3,7kg (High)",
+				"trace_activity": "Distribution",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/distributionIcon.jpg",
+				"trace_date": "05/10/2023"
+			}
+		],
+		"productPrice": "£1,890",
+		"productImage": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/Short_Kensington_Heritage_Trench_Coat_Coal_Blue.png",
+		"productNameTechnical": "KensingtonHeritageTrenchCoat",
+		"productDescription": {
+			"descriptionString": "Burberry Check\nKnitted wool cashmere blend\nPresented in a Burberry gift box\nMachine wash"
+		},
+		"productOtherColours": {
+			"colourCount": "3",
+			"colour1": "https://assets.burberry.com/is/image/Burberryltd/09BDB347-42E9-451D-8407-6796E2789F06",
+			"colour2": "https://assets.burberry.com/is/image/Burberryltd/F98276FE-6B5C-462E-823F-B0A804817825",
+			"colour3": "https://assets.burberry.com/is/image/Burberryltd/D9D18556-491C-43C4-B5EA-F7A4D12F68D4"
+		}
+	},
+	{
+		"id": "3686d945-fac5-42f6-939b-4dbf1c747740",
+		"createdAt": "1698923088960",
+		"updatedAt": "1698935007915",
+		"createdBy": "daniel.vieira@neptune-software.com",
+		"updatedBy": "daniel.vieira@neptune-software.com",
+		"productID": "80431351",
+		"productName": "Check Wool Thomas Bear",
+		"productColour": "Archive Beige",
+		"productMaterials": {
+			"fabric1": "100% wool",
+			"fabric2": "Filling: 100% polyester",
+			"fabric3": ""
+		},
+		"productManufacturingSite": "Imported to Italy",
+		"productWeight": "0.3",
+		"productTraceability": [
+			{
+				"trace_location": "Bradford, UK",
+				"trace_item": "100% wool",
+				"trace_activity": "Raw Material Harvest",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/animalIcon.jpg",
+				"trace_date": "15/02/2023"
+			},
+			{
+				"trace_location": "Italy, Milano",
+				"trace_item": "CO2 Impact: 7,5kg (High)",
+				"trace_activity": "Cutting & Assembling",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/cuttingIcon.jpg",
+				"trace_date": "10/07/2023"
+			},
+			{
+				"trace_location": "Italy, Milano",
+				"trace_item": "30% Biodegradable Paint\nCO2 Impact: 0,2kg (Low)",
+				"trace_activity": "Filling & Detailing",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/DetailingIcon.jpg",
+				"trace_date": "23/08/2023"
+			},
+			{
+				"trace_location": "London, UK",
+				"trace_item": "CO2 Impact: 0,7kg (Medium)",
+				"trace_activity": "Quality Control",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/qualityIcon.jpeg",
+				"trace_date": "17/09/2023"
+			},
+			{
+				"trace_location": "London, UK",
+				"trace_item": "CO2 Impact: 3,7kg (High)",
+				"trace_activity": "Distribution",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/distributionIcon.jpg",
+				"trace_date": "05/10/2023"
+			}
+		],
+		"productPrice": "£450",
+		"productImage": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/Check_Wool_Thomas_Bear.png",
+		"productNameTechnical": "ThomasBear",
+		"productDescription": {
+			"descriptionString": "Our signature teddy knitted from check wool,\nfeaturing a neat bow tie and hand-embroidered details\nMachine wash"
+		},
+		"productOtherColours": {
+			"colourCount": "1",
+			"colour1": "https://assets.burberry.com/is/image/Burberryltd/4F727DB5-09D2-4B7A-8203-AAAC5314830A",
+			"colour2": "",
+			"colour3": ""
+		}
+	},
+	{
+		"id": "355c4a53-d904-4ccd-b9b6-1932229ad11a",
+		"createdAt": "1698247993499",
+		"updatedAt": "1698923088960",
+		"createdBy": "daniel.vieira@neptune-software.com",
+		"updatedBy": "daniel.vieira@neptune-software.com",
+		"productID": "80776131",
+		"productName": "Chess Satchel",
+		"productColour": "Mimosa",
+		"productMaterials": {
+			"fabric1": "Outer: 100% calf leather",
+			"fabric2": "Trim: 100% goat hair",
+			"fabric3": "Inner: 100% calf leather"
+		},
+		"productManufacturingSite": "Italy",
+		"productWeight": "0.6",
+		"productTraceability": [
+			{
+				"trace_location": "Italy, Bologna",
+				"trace_item": "100% calf leather",
+				"trace_activity": "Raw Material Harvest",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/animalIcon.jpg",
+				"trace_date": "15/02/2023"
+			},
+			{
+				"trace_location": "Italy, Bologna",
+				"trace_item": "100% goat hair",
+				"trace_activity": "Raw Material Harvest",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/animalIcon.jpg",
+				"trace_date": "18/04/2023"
+			},
+			{
+				"trace_location": "Italy, Milano",
+				"trace_item": "CO2 Impact: 7,5kg (High)",
+				"trace_activity": "Cutting & Assembling",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/cuttingIcon.jpg",
+				"trace_date": "10/07/2023"
+			},
+			{
+				"trace_location": "Italy, Milano",
+				"trace_item": "30% Biodegradable Paint\nCO2 Impact: 0,2kg (Low)",
+				"trace_activity": "Detailing",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/DetailingIcon.jpg",
+				"trace_date": "23/08/2023"
+			},
+			{
+				"trace_location": "London, UK",
+				"trace_item": "CO2 Impact: 0,7kg (Medium)",
+				"trace_activity": "Quality Control",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/qualityIcon.jpeg",
+				"trace_date": "17/09/2023"
+			},
+			{
+				"trace_location": "London, UK",
+				"trace_item": "CO2 Impact: 3,7kg (High)",
+				"trace_activity": "Distribution",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/distributionIcon.jpg",
+				"trace_date": "05/10/2023"
+			}
+		],
+		"productPrice": "£2,590",
+		"productImage": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/Chess_Satchel_Mimosa.png",
+		"productNameTechnical": "Chess-Satchel",
+		"productDescription": {
+			"descriptionString": "Knight and rook charms\nAdjustable leather crossbody strap\nFoldover flap with magnetic closure\nOne interior slip pocket, one exterior slip pocket\nHand-painted edges\nBrushed metal hardware\nEmbossed Equestrian Knight Design at back\nAftercare available."
+		},
+		"productOtherColours": {
+			"colourCount": "3",
+			"colour1": "https://assets.burberry.com/is/image/Burberryltd/E4E64A6D-F130-41DC-96F1-0495032D188B",
+			"colour2": "https://assets.burberry.com/is/image/Burberryltd/ADFAD1D9-0972-4BAA-A401-634048D7F67C",
+			"colour3": "https://assets.burberry.com/is/image/Burberryltd/CD1AC771-FB14-447A-9CA9-F61013E16E7C"
+		}
+	},
+	{
+		"id": "2298ce87-0ddf-4b76-960a-d1d202ec91d7",
+		"createdAt": "1698248617173",
+		"updatedAt": "1698753828621",
+		"createdBy": "daniel.vieira@neptune-software.com",
+		"updatedBy": "daniel.vieira@neptune-software.com",
+		"productID": "80751261",
+		"productName": "Small Knight Bag",
+		"productColour": "Knight",
+		"productMaterials": {
+			"fabric1": "Outer: 100% calf leather",
+			"fabric2": "Trims: 100% calf leather; 100% real farmed dyed lamb shearling, ovis aries, country of origin: Italy",
+			"fabric3": "Lining: 100% calf suede"
+		},
+		"productManufacturingSite": "Italy",
+		"productWeight": "0.7",
+		"productTraceability": [
+			{
+				"trace_location": "Italy, Bologna",
+				"trace_item": "100% calf leather, 100% real farmed dyed lamb shearling, ovis aries",
+				"trace_activity": "Raw Material Harvest",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/animalIcon.jpg",
+				"trace_date": "15/02/2023"
+			},
+			{
+				"trace_location": "Italy, Bologna",
+				"trace_item": "100% calf suede",
+				"trace_activity": "Raw Material Harvest",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/animalIcon.jpg",
+				"trace_date": "18/04/2023"
+			},
+			{
+				"trace_location": "Italy, Milano",
+				"trace_item": "CO2 Impact: 7,5kg (High)",
+				"trace_activity": "Cutting & Assembling",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/cuttingIcon.jpg",
+				"trace_date": "10/07/2023"
+			},
+			{
+				"trace_location": "Italy, Milano",
+				"trace_item": "30% Biodegradable Paint\nCO2 Impact: 0,2kg (Low)",
+				"trace_activity": "Detailing",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/DetailingIcon.jpg",
+				"trace_date": "23/08/2023"
+			},
+			{
+				"trace_location": "London, UK",
+				"trace_item": "CO2 Impact: 0,7kg (Medium)",
+				"trace_activity": "Quality Control",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/qualityIcon.jpeg",
+				"trace_date": "17/09/2023"
+			},
+			{
+				"trace_location": "London, UK",
+				"trace_item": "CO2 Impact: 3,7kg (High)",
+				"trace_activity": "Distribution",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/distributionIcon.jpg",
+				"trace_date": "05/10/2023"
+			}
+		],
+		"productPrice": "£2,590",
+		"productImage": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/Small_Knight_Bag_Knight.png",
+		"productNameTechnical": "Small-Knight-Bag",
+		"productDescription": {
+			"descriptionString": "Horse-shaped clip and hoop\nAdjusts from shoulder bag to tote\nLeather strap\nZip closure\nHand-painted edges\nBrushed metal hardware\nAftercare available."
+		},
+		"productOtherColours": {
+			"colourCount": "3",
+			"colour1": "https://assets.burberry.com/is/image/Burberryltd/9AE49C31-632E-45E6-BAF1-5F6B1CDD8052",
+			"colour2": "https://assets.burberry.com/is/image/Burberryltd/0FB62101-A2A7-470C-9C31-73A53FFBA273",
+			"colour3": "https://assets.burberry.com/is/image/Burberryltd/9D5EA15C-2CEC-4C30-8E5F-E4DF7B8ECA91"
+		}
+	},
+	{
+		"id": "1c034a2a-b137-49cb-9b67-382a6aaf1972",
+		"createdAt": "1698248792339",
+		"updatedAt": "1698753828621",
+		"createdBy": "daniel.vieira@neptune-software.com",
+		"updatedBy": "daniel.vieira@neptune-software.com",
+		"productID": "80775541",
+		"productName": "Small Knight Bag",
+		"productColour": "Vine",
+		"productMaterials": {
+			"fabric1": "Outer: 100% calf leather",
+			"fabric2": "Lining: 100% calf suede"
+		},
+		"productManufacturingSite": "Italy",
+		"productWeight": "0.7",
+		"productTraceability": [
+			{
+				"trace_location": "Italy, Bologna",
+				"trace_item": "100% calf leather",
+				"trace_activity": "Raw Material Harvest",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/animalIcon.jpg",
+				"trace_date": "15/02/2023"
+			},
+			{
+				"trace_location": "Italy, Bologna",
+				"trace_item": "100% calf suede",
+				"trace_activity": "Raw Material Harvest",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/animalIcon.jpg",
+				"trace_date": "18/04/2023"
+			},
+			{
+				"trace_location": "Italy, Milano",
+				"trace_item": "CO2 Impact: 7,5kg (High)",
+				"trace_activity": "Cutting & Assembling",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/cuttingIcon.jpg",
+				"trace_date": "10/07/2023"
+			},
+			{
+				"trace_location": "Italy, Milano",
+				"trace_item": "30% Biodegradable Paint\nCO2 Impact: 0,2kg (Low)",
+				"trace_activity": "Detailing",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/DetailingIcon.jpg",
+				"trace_date": "23/08/2023"
+			},
+			{
+				"trace_location": "London, UK",
+				"trace_item": "CO2 Impact: 0,7kg (Medium)",
+				"trace_activity": "Quality Control",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/qualityIcon.jpeg",
+				"trace_date": "17/09/2023"
+			},
+			{
+				"trace_location": "London, UK",
+				"trace_item": "CO2 Impact: 3,7kg (High)",
+				"trace_activity": "Distribution",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/distributionIcon.jpg",
+				"trace_date": "05/10/2023"
+			}
+		],
+		"productPrice": "£2,290",
+		"productImage": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/Small_Knight_Bag_Vine.png",
+		"productNameTechnical": "Small-Knight-Bag",
+		"productDescription": {
+			"descriptionString": "Horse-shaped clip and hoop\nAdjusts from shoulder bag to tote\nLeather strap\nZip closure\nHand-painted edges\nBrushed metal hardware\nAftercare available."
+		},
+		"productOtherColours": {
+			"colourCount": "3",
+			"colour1": "https://assets.burberry.com/is/image/Burberryltd/A76D7E76-F984-40D9-9943-558BA1AEBD3E",
+			"colour2": "https://assets.burberry.com/is/image/Burberryltd/40473919-0C7F-4EFF-8B09-1178FA5A5D63",
+			"colour3": "https://assets.burberry.com/is/image/Burberryltd/60349627-6090-4FB0-9487-E36C1681BF47"
+		}
+	},
+	{
+		"id": "1985d56e-e556-4b85-8482-69a3a8c77ce5",
+		"createdAt": "1698923088960",
+		"updatedAt": "1698935007915",
+		"createdBy": "daniel.vieira@neptune-software.com",
+		"updatedBy": "daniel.vieira@neptune-software.com",
+		"productID": "80581961",
+		"productName": "Short Kensington Heritage Trench Coat",
+		"productColour": "Honey",
+		"productMaterials": {
+			"fabric1": "Outer: 100% cotton",
+			"fabric2": "Lining: 100% cotton",
+			"fabric3": "Sleeve lining: 100% viscose\nBuckles: 100% calf leather"
+		},
+		"productManufacturingSite": "England",
+		"productWeight": "2.1",
+		"productTraceability": [
+			{
+				"trace_location": "Italy, Bologna",
+				"trace_item": "100% calf leather",
+				"trace_activity": "Raw Material Harvest",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/animalIcon.jpg",
+				"trace_date": "15/02/2023"
+			},
+			{
+				"trace_location": "Antalya, Turkey",
+				"trace_item": "100% organic cotton",
+				"trace_activity": "Raw Material Harvest",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/cottonIcon.jpg",
+				"trace_date": "18/04/2023"
+			},
+			{
+				"trace_location": "Italy, Milano",
+				"trace_item": "CO2 Impact: 7,5kg (High)",
+				"trace_activity": "Cutting & Assembling",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/cuttingIcon.jpg",
+				"trace_date": "10/07/2023"
+			},
+			{
+				"trace_location": "Italy, Milano",
+				"trace_item": "30% Biodegradable Paint\nCO2 Impact: 0,2kg (Low)",
+				"trace_activity": "Detailing",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/DetailingIcon.jpg",
+				"trace_date": "23/08/2023"
+			},
+			{
+				"trace_location": "London, UK",
+				"trace_item": "CO2 Impact: 0,7kg (Medium)",
+				"trace_activity": "Quality Control",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/qualityIcon.jpeg",
+				"trace_date": "17/09/2023"
+			},
+			{
+				"trace_location": "London, UK",
+				"trace_item": "CO2 Impact: 3,7kg (High)",
+				"trace_activity": "Distribution",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/distributionIcon.jpg",
+				"trace_date": "05/10/2023"
+			}
+		],
+		"productPrice": "£1,890",
+		"productImage": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/Short_Kensington_Heritage_Trench_Coat_Honey.png",
+		"productNameTechnical": "KensingtonHeritageTrenchCoat",
+		"productDescription": {
+			"descriptionString": "Burberry Check\nKnitted wool cashmere blend\nPresented in a Burberry gift box\nMachine wash"
+		},
+		"productOtherColours": {
+			"colourCount": "3",
+			"colour1": "https://assets.burberry.com/is/image/Burberryltd/09BDB347-42E9-451D-8407-6796E2789F06",
+			"colour2": "https://assets.burberry.com/is/image/Burberryltd/F98276FE-6B5C-462E-823F-B0A804817825",
+			"colour3": "https://assets.burberry.com/is/image/Burberryltd/D9D18556-491C-43C4-B5EA-F7A4D12F68D4"
+		}
+	},
+	{
+		"id": "0d37618a-b5d2-48da-b555-f2a98a214b91",
+		"createdAt": "1698249342804",
+		"updatedAt": "1698753828621",
+		"createdBy": "daniel.vieira@neptune-software.com",
+		"updatedBy": "daniel.vieira@neptune-software.com",
+		"productID": "80752461",
+		"productName": "Medium Knight Bag",
+		"productColour": "Black",
+		"productMaterials": {
+			"fabric1": "Outer: 100% calf leather",
+			"fabric2": "Trims: 100% calf leather; 100% real farmed dyed lamb shearling, ovis aries, country of origin: Italy",
+			"fabric3": "Lining: 100% calf suede"
+		},
+		"productManufacturingSite": "Italy",
+		"productWeight": "2.3",
+		"productTraceability": [
+			{
+				"trace_location": "Italy, Bologna",
+				"trace_item": "100% calf leather, 100% real farmed dyed lamb shearling, ovis aries",
+				"trace_activity": "Raw Material Harvest",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/animalIcon.jpg",
+				"trace_date": "15/02/2023"
+			},
+			{
+				"trace_location": "Italy, Bologna",
+				"trace_item": "100% calf suede",
+				"trace_activity": "Raw Material Harvest",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/animalIcon.jpg",
+				"trace_date": "18/04/2023"
+			},
+			{
+				"trace_location": "Italy, Milano",
+				"trace_item": "CO2 Impact: 7,5kg (High)",
+				"trace_activity": "Cutting & Assembling",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/cuttingIcon.jpg",
+				"trace_date": "10/07/2023"
+			},
+			{
+				"trace_location": "Italy, Milano",
+				"trace_item": "30% Biodegradable Paint\nCO2 Impact: 0,2kg (Low)",
+				"trace_activity": "Detailing",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/DetailingIcon.jpg",
+				"trace_date": "23/08/2023"
+			},
+			{
+				"trace_location": "London, UK",
+				"trace_item": "CO2 Impact: 0,7kg (Medium)",
+				"trace_activity": "Quality Control",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/DetailingIcon.jpg",
+				"trace_date": "17/09/2023"
+			},
+			{
+				"trace_location": "London, UK",
+				"trace_item": "CO2 Impact: 3,7kg (High)",
+				"trace_activity": "Distribution",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/distributionIcon.jpg",
+				"trace_date": "05/10/2023"
+			}
+		],
+		"productPrice": "£2,890",
+		"productImage": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/Medium_Knight_Bag_Black.png",
+		"productNameTechnical": "Medium-Knight-Bag",
+		"productDescription": {
+			"descriptionString": "Horse-shaped clip and hoop\nAdjusts from shoulder bag to tote\nLeather strap\nZip closure\nInterior slip pocket\nHand-painted edges\nBrushed metal hardware\nDetachable shearling charm\nAftercare available."
+		},
+		"productOtherColours": {
+			"colourCount": "1",
+			"colour1": "https://assets.burberry.com/is/image/Burberryltd/CD19D221-5611-4445-9221-7E1B4CC42BFB",
+			"colour2": "",
+			"colour3": ""
+		}
+	},
+	{
+		"id": "01c21c83-6691-4254-883f-a24bb758ff1c",
+		"createdAt": "1698249342804",
+		"updatedAt": "1698753828621",
+		"createdBy": "daniel.vieira@neptune-software.com",
+		"updatedBy": "daniel.vieira@neptune-software.com",
+		"productID": "80211111",
+		"productName": "Note Bag",
+		"productColour": "Tan",
+		"productMaterials": {
+			"fabric1": "Outer and Trim: 100% calf leather",
+			"fabric2": "Panel: 80% cotton, 20% polyester",
+			"fabric3": "Lining: 55% cotton, 45% polyester"
+		},
+		"productManufacturingSite": "Italy",
+		"productWeight": "2.4",
+		"productTraceability": [
+			{
+				"trace_location": "Italy, Bologna",
+				"trace_item": "100% calf leather",
+				"trace_activity": "Raw Material Harvest",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/animalIcon.jpg",
+				"trace_date": "15/02/2023"
+			},
+			{
+				"trace_location": "Antalya, Turkey",
+				"trace_item": "100% organic cotton",
+				"trace_activity": "Raw Material Harvest",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/cottonIcon.jpg",
+				"trace_date": "18/04/2023"
+			},
+			{
+				"trace_location": "Italy, Milano",
+				"trace_item": "CO2 Impact: 7,5kg (High)",
+				"trace_activity": "Cutting & Assembling",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/cuttingIcon.jpg",
+				"trace_date": "10/07/2023"
+			},
+			{
+				"trace_location": "Italy, Milano",
+				"trace_item": "30% Biodegradable Paint\nCO2 Impact: 0,2kg (Low)",
+				"trace_activity": "Detailing",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/DetailingIcon.jpg",
+				"trace_date": "23/08/2023"
+			},
+			{
+				"trace_location": "London, UK",
+				"trace_item": "CO2 Impact: 0,7kg (Medium)",
+				"trace_activity": "Quality Control",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/qualityIcon.jpeg",
+				"trace_date": "17/09/2023"
+			},
+			{
+				"trace_location": "London, UK",
+				"trace_item": "CO2 Impact: 3,7kg (High)",
+				"trace_activity": "Distribution",
+				"trace_image": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/distributionIcon.jpg",
+				"trace_date": "05/10/2023"
+			}
+		],
+		"productPrice": "£1,150",
+		"productImage": "https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/Note_Bag_Tan.png",
+		"productNameTechnical": "Note-Bag",
+		"productDescription": {
+			"descriptionString": "An archive-inspired style in leather and Burberry Check, detailed with logo-engraved studs.\nDetachable, adjustable crossbody strap\nOne exterior slip pocket, one interior slip pocket\nFoldover top with magnetic closure\n Hand-painted edges\nPolished metal hardware"
+		},
+		"productOtherColours": {
+			"colourCount": "2",
+			"colour1": "https://assets.burberry.com/is/image/Burberryltd/4F727DB5-09D2-4B7A-8203-AAAC5314830A",
+			"colour2": "https://assets.burberry.com/is/image/Burberryltd/5FEAA872-E869-40D5-988D-8521ED7F0C69",
+			"colour3": ""
+		}
+	}
+]
