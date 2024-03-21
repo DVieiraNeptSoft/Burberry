@@ -1,0 +1,15 @@
+
+
+oBusyDialog.close();
+
+let l = xhr.responseJSON.outputs[0].data.concepts;
+if (l) {
+    var chairidentified = l.reduce((prev, current) => (+prev.value > +current.value) ? prev : current);
+    //Do something with the chairidentified.name
+} else {
+    sap.m.MessageToast.show("Sorry, could not determine the product");
+}
+modeloTable.setData(l);
+modeloTable.refresh();
+// oButtonStat.setVisible(true);
+

@@ -1,0 +1,6 @@
+// oButtonStat.setVisible(false);
+oBusyDialog.close();
+sap.m.MessageToast.show("Image not ok please try again");
+oApp.setBusy(false);
+// Use MessageToast
+sap.m.MessageToast.show("Error : " + xhr.responseJSON.status.description);

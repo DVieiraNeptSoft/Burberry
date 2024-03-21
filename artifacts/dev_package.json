@@ -1,0 +1,76 @@
+{
+	"id": "aa533759-1673-ee11-9937-0022489e2195",
+	"createdAt": "2023-10-25T09:10:32.840Z",
+	"createdBy": "daniel.vieira@neptune-software.com",
+	"git": {
+		"remote": "https://github.com/DVieiraNeptSoft/Burberry"
+	},
+	"name": "Burberry",
+	"description": null,
+	"ver": "24.3.21.1444",
+	"enableCICD": true,
+	"apps": [
+		{
+			"id": "9fb8dd87-1673-ee11-9937-0022489e2195",
+			"application": "burberry_productpassport_app",
+			"title": "",
+			"description": "",
+			"package": {
+				"id": "AA533759-1673-EE11-9937-0022489E2195"
+			}
+		}
+	],
+	"api": [
+		{
+			"id": "b472cca3-7c72-ee11-9937-0022489e2195",
+			"name": "Clarifai Search Products",
+			"description": null,
+			"apiGroup": null
+		},
+		{
+			"id": "292fedbe-2873-ee11-9937-0022489e2195",
+			"name": "API burberry_products",
+			"description": null,
+			"apiGroup": null
+		}
+	],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [
+		{
+			"id": "2df66ca8-2873-ee11-9937-0022489e2195",
+			"name": "burberry_products",
+			"description": null
+		}
+	],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"category": [],
+	"launchpad": [
+		{
+			"id": "d52cd7b1-f473-ee11-9937-0022489e2195",
+			"name": "burberry_scanProductLaunchpad",
+			"description": null
+		}
+	],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"events": [],
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": []
+}

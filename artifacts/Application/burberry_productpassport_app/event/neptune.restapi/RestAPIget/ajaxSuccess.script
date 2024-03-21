@@ -1,0 +1,8 @@
+var obj = {}, array = [];
+
+obj = Object.assign({}, modelMultiModelget.getData()[0]);
+
+obj.productMaterialsString = obj.productMaterials.fabric1 + "\n" + obj.productMaterials.fabric2 + "\n" + obj.productMaterials.fabric3
+
+modelpageDetail.setData(obj);
+modeloListTrace.setData(obj.productTraceability);

@@ -1,0 +1,101 @@
+{
+	"id": "2df66ca8-2873-ee11-9937-0022489e2195",
+	"createdAt": "2023-10-25T11:21:37.730Z",
+	"createdBy": "daniel.vieira@neptune-software.com",
+	"fields": [
+		{
+			"id": "e0c541a1-d345-426b-b2ea-dbc29c684474",
+			"fieldName": "productID",
+			"fieldType": "text",
+			"isUnique": false,
+			"isNullable": true
+		},
+		{
+			"id": "31d18990-77c6-49df-b55e-63a5255a8376",
+			"fieldName": "productName",
+			"fieldType": "text",
+			"isUnique": false,
+			"isNullable": true
+		},
+		{
+			"id": "ce9e22a8-3cda-4b28-dfbf-12de927033c0",
+			"fieldName": "productColour",
+			"fieldType": "text",
+			"isUnique": false,
+			"isNullable": true
+		},
+		{
+			"id": "98cdc604-5a9e-46c8-c56a-4af1c08fb6c1",
+			"fieldName": "productMaterials",
+			"fieldType": "json",
+			"isUnique": false,
+			"isNullable": true
+		},
+		{
+			"id": "d6ef06e1-d6ee-4cf9-8be2-a0ee5410850f",
+			"fieldName": "productManufacturingSite",
+			"fieldType": "text",
+			"isUnique": false,
+			"isNullable": true
+		},
+		{
+			"id": "6ef8ef23-d7a6-47ac-b70a-24d2b3a60019",
+			"fieldName": "productWeight",
+			"fieldType": "text",
+			"isUnique": false,
+			"isNullable": true
+		},
+		{
+			"id": "09204baa-3883-435d-943c-cf2d94a7692f",
+			"fieldName": "productTraceability",
+			"fieldType": "json",
+			"isUnique": false,
+			"isNullable": true
+		},
+		{
+			"id": "fb3009c5-0618-4b98-d99e-f7e8e0c21e93",
+			"fieldName": "productPrice",
+			"fieldType": "text",
+			"isUnique": false,
+			"isNullable": true
+		},
+		{
+			"id": "14a4be96-34b6-4a85-be38-3a1fb53fdd28",
+			"fieldName": "productImage",
+			"fieldType": "text",
+			"isUnique": false,
+			"isNullable": true
+		},
+		{
+			"id": "ef8bf78c-4023-4bb2-8ca0-246924452f62",
+			"fieldName": "productNameTechnical",
+			"fieldType": "text",
+			"isUnique": false,
+			"isNullable": true
+		},
+		{
+			"id": "067adfd3-6bf5-4a7b-f966-40611d8aac3c",
+			"fieldName": "productDescription",
+			"fieldType": "json",
+			"isUnique": false,
+			"isNullable": true
+		},
+		{
+			"id": "31f45c2b-9403-4008-a503-cf696567f8d1",
+			"fieldName": "productOtherColours",
+			"fieldType": "json",
+			"isUnique": false,
+			"isNullable": true
+		}
+	],
+	"indices": [],
+	"foreignKeys": [],
+	"name": "burberry_products",
+	"description": null,
+	"ver": "23.10.31.1250",
+	"enableAudit": true,
+	"includeDataInPackage": false,
+	"package": "aa533759-1673-ee11-9937-0022489e2195",
+	"rolesRead": [],
+	"rolesWrite": []
+}

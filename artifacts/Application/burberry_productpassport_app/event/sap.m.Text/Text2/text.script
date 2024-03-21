@@ -1,0 +1,6 @@
+if (typeof productID === "undefined" || productID === null || productID === "") { return; }  
+var formattedText = productID;
+
+formattedText = "Item " + formattedText;
+
+return formattedText;

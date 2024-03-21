@@ -1,0 +1,31 @@
+// debugger;
+
+// oBusyDialog.close();
+
+// let l = xhr.responseJSON.outputs[0].data.concepts;
+// if (l) {
+//     var chairidentified = l.reduce((prev, current) => (+prev.value > +current.value) ? prev : current);
+//     //Do something with the chairidentified.name
+// } else {
+//     sap.m.MessageToast.show("Sorry, could not determine the product");
+// }
+// modeloTable.setData(l);
+// modeloTable.refresh();
+// oButtonStat.setVisible(true);
+oApp.setBusy(false);
+
+console.log("Clarifai Response:");
+console.log(xhr.responseJSON.outputs[0].data.concepts);
+
+var filteredModel = ModelData.FindFirst(xhr.responseJSON.outputs[0].data.concepts, "name", "Bag", "NE")
+
+
+
+var options = {
+    parameters: {
+        // where: JSON.stringify({ productNameTechnical: xhr.responseJSON.outputs[0].data.concepts[0].name }),
+        where: JSON.stringify({ productNameTechnical: filteredModel.name }),
+    },
+};
+
+apigetProducts(options);

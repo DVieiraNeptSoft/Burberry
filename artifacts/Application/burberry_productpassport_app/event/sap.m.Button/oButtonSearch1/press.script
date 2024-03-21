@@ -1,0 +1,17 @@
+// jQuery.sap.require("sap.m.MessageBox");
+// sap.m.MessageBox.confirm(
+//     "Do you want to take a picture or choose one from the photo library ?", {
+//         actions: ["Take Picture", "Photo Library"],
+//         onClose: function(sAction) {
+//             if (sAction === "Take Picture") {
+//                 capturePhoto();
+//             }else{
+//                 choosePhoto();
+//             }
+//         }
+//     }
+// );
+// capturePhoto();
+// test_api();
+// debugger;
+diaWebCam.open();

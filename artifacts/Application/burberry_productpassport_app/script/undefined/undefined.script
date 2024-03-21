@@ -1,0 +1,186 @@
+.ScanProductButton {
+  background-color: #256f3a;
+  color: white;
+  padding: 10px 0px 10px;
+  border: 1px;
+  border-radius: 25px 5px 25px 5px;
+  margin: 20px;
+}
+
+.ScanProductButton:hover {
+  background-color: #256f3a;
+  color: white;
+  padding: 10px 0px 10px;
+  border: 1px;
+  border-radius: 25px 5px 25px 5px;
+  margin: 20px;
+}
+
+.ScanProductButton:focus {
+  background-color: #256f3a;
+  color: white;
+  padding: 10px 0px 10px;
+  border: 1px;
+  border-radius: 25px 5px 25px 5px;
+  margin: 20px;
+}
+
+.line {
+  background-color: black;
+}
+
+.VBox7 {
+  top: -8px;
+}
+
+.line2 {
+  background-color: black;
+  left: 28px;
+}
+
+.pageScanBackground {
+  background-image: url("https://gtmdemosystem.neptune-software.cloud/media/root/Burberry/burberry_background.webp");
+}
+
+#videoElement {
+  border: 5px solid white;
+  border-radius: 40px;
+  height: 100%;
+  width: 100%;
+}
+
+#videoElementWeb {
+  border: 5px solid white;
+  border-radius: 40px;
+  height: 100%;
+  width: 100%;
+}
+
+.listcontainer ul {
+  display: flex;
+  flex-direction: row !important;
+}
+
+.listitem {
+  margin-right: 10px; /* Optional: Add spacing between items */
+}
+
+.textFont {
+  font-family: "Lucida Console";
+}
+
+.imageDetail {
+  position: relative;
+}
+
+.imageEcoRating {
+  position: absolute;
+  right: 40px;
+}
+
+.circularImage {
+  border-radius: 50% !important;
+  border: 4px solid black;
+}
+
+span.sapMBtnInner.sapMBtnAccept {
+  background-image: none;
+  background-color: #256f3a;
+  border-color: #256f3a;
+  color: #fefefe;
+}
+
+span.sapMBtnInner.sapMBtnReject {
+  background-image: none;
+  background-color: #ffffff;
+  border-color: #000000;
+  border-width: 1.5px;
+  color: #000000;
+}
+
+span.sapMBtnInner.sapMBtnAttention {
+  background-image: none;
+  background-color: #000000;
+  border-color: #000000;
+  color: #ffffff;
+}
+
+:not(.sapMBtnDisabled):not(.sapMSBActive) > span.sapMBtnInner.sapMBtnAttention:not(.sapMBtnActive):not(.sapMToggleBtnPressed) > .sapMBtnIcon {
+  color: #ffffff;
+}
+
+.sapMBtn:not(.sapMBtnDisabled):hover .sapMBtnInner:not(.sapMBtnActive).sapMBtnAttention {
+  box-shadow: 0 0 0.125rem 0 rgba(255, 255, 255, 0.72);
+}
+
+.sapMBtn:hover:not(.sapMBtnDisabled) > .sapMBtnHoverable.sapMBtnAttention:not(.sapMBtnActive):not(.sapMToggleBtnPressed) > .sapMBtnIcon,
+.sapMBtn:hover:not(.sapMBtnDisabled) > span.sapMBtnInner.sapMBtnAttention:hover:not(.sapMBtnDisabled):not(.sapMBtnActive):not(.sapMToggleBtnPressed) .sapUiIcon,
+:not(.sapMBtnDisabled):not(.sapMSBActive) > span.sapMBtnInner.sapMBtnAttention:not(.sapMBtnActive):not(.sapMBtnDisabled):not(.sapMToggleBtnPressed):hover > .sapMBtnIcon {
+  color: #ffffff;
+}
+
+:not(.sapMBtnDisabled) > span.sapMBtnInner.sapMBtnAttention.sapMBtnActive {
+  background-color: #fff;
+  border-color: #000000;
+  border-width: 1.5px;
+  text-shadow: none;
+}
+
+:not(.sapMBtnDisabled) > .sapMBtnInner.sapMBtnAttention.sapMBtnActive,
+:not(.sapMBtnDisabled) > .sapMBtnInner.sapMBtnAttention.sapMBtnActive .sapMBtnIcon {
+  color: #000000;
+}
+
+:not(.sapMBtnDisabled) > span.sapMBtnInner.sapMBtnReject.sapMBtnActive {
+  background-color: #000;
+  border-color: #000000;
+  text-shadow: none;
+}
+
+:not(.sapMBtnDisabled) > .sapMBtnInner.sapMBtnReject.sapMBtnActive,
+:not(.sapMBtnDisabled) > .sapMBtnInner.sapMBtnReject.sapMBtnActive .sapMBtnIcon {
+  color: #ffffff;
+}
+
+.sapMBtn:not(.sapMBtnDisabled):hover .sapMBtnInner:not(.sapMBtnActive).sapMBtnReject {
+  box-shadow: none;
+}
+
+html.sap-desktop .sapMFooter-CTX .sapMBtnInner.sapMBtnReject {
+  border-color: #000000 !important;
+}
+
+.sapMBtn:hover > .sapMBtnHoverable.sapMBtnAttention:not(.sapMBtnActive):not(.sapMBtnDisabled):not(.sapMToggleBtnPressed) {
+  background-color: #fff;
+  /* border-color: #000; */
+  /* border-width: 1.5px; */
+  color: #000000;
+}
+
+.sapMBtn:hover:not(.sapMBtnDisabled) > .sapMBtnHoverable.sapMBtnAttention:not(.sapMBtnActive):not(.sapMToggleBtnPressed) > .sapMBtnIcon,
+.sapMBtn:hover:not(.sapMBtnDisabled) > span.sapMBtnInner.sapMBtnAttention:hover:not(.sapMBtnDisabled):not(.sapMBtnActive):not(.sapMToggleBtnPressed) .sapUiIcon,
+:not(.sapMBtnDisabled):not(.sapMSBActive) > span.sapMBtnInner.sapMBtnAttention:not(.sapMBtnActive):not(.sapMBtnDisabled):not(.sapMToggleBtnPressed):hover > .sapMBtnIcon {
+  color: #000000;
+}
+
+.sapMBtn:hover > .sapMBtnHoverable.sapMBtnAttention:not(.sapMBtnActive):not(.sapMBtnDisabled):not(.sapMToggleBtnPressed) bdi {
+  color: #000000;
+}
+
+.sapUiFormM .sapUiFormContainerTitle > .sapUiFormTitle {
+  height: -webkit-fill-available;
+}
+
+.removeListUnderline {
+  border-bottom: none !important;
+}
+
+.simpleformBackgroundColor.sapUiFormResLayout.sapUiFormBackgrSolid,
+.sapUiFormResLayout.sapUiFormBackgrTranslucent {
+  background-color: #d2b48c;
+  border-radius: 0.75rem rem;
+}
+
+.traceTitles {
+  font-weight: bold;
+}
